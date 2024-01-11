@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spstestRam/static/css/main.27d198d3.css",
+    "main.js": "/spstestRam/static/js/main.e765f99e.js",
+    "index.html": "/spstestRam/index.html",
+    "main.27d198d3.css.map": "/spstestRam/static/css/main.27d198d3.css.map",
+    "main.e765f99e.js.map": "/spstestRam/static/js/main.e765f99e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27d198d3.css",
+    "static/js/main.e765f99e.js"
+  ]
+}
